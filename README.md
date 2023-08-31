@@ -15,7 +15,7 @@ Before you begin, make sure you have the following software installed:
 ## Installation
 
 1. Clone this repository to your local machine:
-   ```sh
+```sh
 git clone https://github.com/jredmolina/JM-Ecommerce-Store.git
 cd JM-Ecommerce-Store
 ```
